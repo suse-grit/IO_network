@@ -2,9 +2,11 @@
 
 ------
 
-<img src="/home/tarena/图片/OSI.jpeg" style="zoom: 50%;" />
 
-<img src="/home/tarena/图片/TCP.jpeg" style="zoom:50%;" />
+
+![](/home/tarena/gmy/mouth02/OSI.jpeg)
+
+![](/home/tarena/图片/TCP.jpeg)
 
 ### ② 网络套接字（TCP与UDP的基于python的实现）
 
